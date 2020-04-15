@@ -38,9 +38,9 @@
 </template>
 
 <script>
-  import Popup from 'element-ui/src/utils/popup';
-  import Migrating from 'element-ui/src/mixins/migrating';
-  import emitter from 'element-ui/src/mixins/emitter';
+  import Popup from '@ttk/vue-ui/src/utils/popup';
+  import Migrating from '@ttk/vue-ui/src/mixins/migrating';
+  import emitter from '@ttk/vue-ui/src/mixins/emitter';
 
   export default {
     name: 'ElDialog',

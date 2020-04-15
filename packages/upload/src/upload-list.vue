@@ -63,8 +63,8 @@
   </transition-group>
 </template>
 <script>
-  import Locale from 'element-ui/src/mixins/locale';
-  import ElProgress from 'element-ui/packages/progress';
+  import Locale from '@ttk/vue-ui/src/mixins/locale';
+  import ElProgress from '@ttk/vue-ui/packages/progress';
 
   export default {
 

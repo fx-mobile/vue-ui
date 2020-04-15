@@ -1,9 +1,9 @@
-import { kebabCase } from 'element-ui/src/utils/util';
+import { kebabCase } from '@ttk/vue-ui/src/utils/util';
 /**
  * Show migrating guide in browser console.
  *
  * Usage:
- * import Migrating from 'element-ui/src/mixins/migrating';
+ * import Migrating from '@ttk/vue-ui/src/mixins/migrating';
  *
  * mixins: [Migrating]
  *
