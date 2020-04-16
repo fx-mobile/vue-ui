@@ -34,7 +34,7 @@ export default {
     },
 
     layout: {
-      default: 'prev, pager, next, jumper, ->, total'
+      default: 'prev, pager, next, slot, jumper, sizes, ->, total'
     },
 
     pageSizes: {

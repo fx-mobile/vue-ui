@@ -3,7 +3,14 @@
 
 # TAX-GROUP-UI
 
-> 这是一个基于`Element-ui 2.12`做的UI框架。
+## 更新日志
+### V1.0.9
+1. UI底层从Element-ui V2.12.0 升级到 V2.13.1版本
+2. 设置pagination的layout默认值为`prev, pager, next, slot, jumper, sizes, ->, total`
+
+---
+
+> 这是一个基于`Element-ui 2.13.1`做的UI框架。
 
 
 目前版本为 `v0.1` 基于 `Element-ui 2.12` 进行构建.
